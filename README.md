@@ -18,4 +18,4 @@
     
     }
     
-    return allowedUsers# permission
+    return allowedUsers
