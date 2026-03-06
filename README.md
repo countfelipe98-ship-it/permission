@@ -9,7 +9,7 @@
    
     
     ----------///// PERMANENTE ACESS /////------------
-    ["aati4x"] = true,
+    ["gringxp9"] = true,
     ["Gr3g0rilsir"] = true,
     ["BlesssdTeam_BT"] = true,
    
